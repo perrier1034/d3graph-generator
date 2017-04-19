@@ -4,6 +4,7 @@
 /node_modules/*
 test*
 *.db
+*.csv
 *.zip
 # Gradle:
 .idea/gradle.xml
